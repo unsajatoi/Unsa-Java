@@ -1,3 +1,4 @@
+//1d. Write a program to calculate factorial of a given number. You need to compute the factorial with one logic that uses recursion.
 package com.whitebox.edu;
 
 public class Factorial {

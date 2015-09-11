@@ -1,3 +1,4 @@
+//1e. Write a program to check if a given number is prime or not.
 package com.whitebox.edu;
 
 public class primeNumbers {
