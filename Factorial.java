@@ -3,21 +3,21 @@ package com.whitebox.edu;
 
 public class Factorial {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		
 		 System.out.println(calc(4));
 	 }
 
-	  public static long calc(long n){
+	  public static int calc(int n){
+          int result;
 	    if (n <= 1)
 	        return 1;
 
-	        else
-	            return n * (n-1);
+	       
+	          result=  calc (n-1) *n;
+                  return=result;
 	  
 		
 
